@@ -1,0 +1,3 @@
+Wzorzec strategii polega na implementowaniu interfejsu który posiada jedną metode
+oraz nie implementujemy zmiennych a przy
+zwykłej implementacji możemy wrzucić ile chcemy metod oraz zmienne
