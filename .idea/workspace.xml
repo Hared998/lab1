@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc568dd8-5ac7-41ee-ac97-7242d92005f3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/zad6/mainPracownik.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zad5/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zad5/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zad5/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zad5/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zad6/Pracownik.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zad6/Pracownik.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +40,7 @@
     "Application.Main.executor": "Run",
     "Application.MainDuckSim.executor": "Run",
     "Application.MainShop.executor": "Run",
+    "Application.mainPracownik.executor": "Run",
     "Application.zad4.MainDuckSim.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -90,7 +91,7 @@
       <option name="presentableId" value="Default" />
       <updated>1710539319503</updated>
       <workItem from="1710539320461" duration="99000" />
-      <workItem from="1710539422342" duration="10596000" />
+      <workItem from="1710539422342" duration="11935000" />
     </task>
     <servers />
   </component>
