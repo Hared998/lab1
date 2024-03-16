@@ -7,6 +7,7 @@ public class Client {
     public Client(Taxes tax, String name){
         this.tax = tax;
         this.name = name;
+        System.out.println("Dodano Klienta:" + name + " o mnożniku podatku: " + tax.tax());
 
     }
     public void buyProduct(Product product)

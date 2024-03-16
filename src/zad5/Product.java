@@ -8,5 +8,6 @@ public class Product {
     public Product(float price, String name ){
         this.Price = price;
         this.name = name;
+        System.out.println("Dodano produkt: " + name + " o cenie bez podatku: " + Price);
     }
 }
