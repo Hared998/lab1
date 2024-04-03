@@ -1,3 +1,10 @@
-Wzorzec strategii polega na implementowaniu interfejsu który posiada jedną metode
-oraz nie implementujemy zmiennych a przy
-zwykłej implementacji możemy wrzucić ile chcemy metod oraz zmienne
+
+Wzorzec Strategia pozwala na wybór spośród różnych algorytmów,
+oddzielając ich implementacje od klasy użytkowej poprzez wykorzystanie interfejsu.
+Dzięki temu możliwa jest wymiana zachowań bez konieczności ingerencji w klasę główną.
+Zalety obejmują łatwą wymianę algorytmów, elastyczność w dostosowywaniu zachowania obiektów,
+ułatwione testowanie oraz zgodność z zasadą pojedynczej odpowiedzialności. Należy jednak pamiętać,
+że ten wzorzec może wprowadzić dodatkową złożoność kodu.
+W porównaniu, zwykła implementacja interfejsu nie oddziela algorytmów tak wyraźnie od klas,
+co prowadzi do mniejszej elastyczności w zmianach zachowania obiektów oraz
+mniejszej zgodności z zasadą pojedynczej odpowiedzialności.

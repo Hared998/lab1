@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc568dd8-5ac7-41ee-ac97-7242d92005f3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/zad6/mainPracownik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zad2/Symduck.drawio.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zad1/zad1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/zad1/zad1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zad3/zadanie3" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/zad6/Pracownik.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zad6/Pracownik.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zad6/mainPracownik.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zad6/mainPracownik.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +41,7 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.Main.executor": "Run",
-    "Application.MainDuckSim.executor": "Run",
+    "Application.MainDuckSim.executor": "Debug",
     "Application.MainShop.executor": "Run",
     "Application.mainPracownik.executor": "Run",
     "Application.zad4.MainDuckSim.executor": "Run",
@@ -60,6 +63,7 @@
       <recent name="C:\Users\Adrian\Desktop\Zadania\MiniSymDuck\src\zad2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Adrian\Desktop\Zadania\MiniSymDuck\src\zad2" />
       <recent name="C:\Users\Adrian\Desktop\Zadania\MiniSymDuck\src\zad3" />
       <recent name="C:\Users\Adrian\Desktop\Zadania\MiniSymDuck\out\production\MiniSymDuck" />
       <recent name="C:\Users\Adrian\Desktop\Zadania\MiniSymDuck\src" />
@@ -92,6 +96,7 @@
       <updated>1710539319503</updated>
       <workItem from="1710539320461" duration="99000" />
       <workItem from="1710539422342" duration="11935000" />
+      <workItem from="1712165843005" duration="1364000" />
     </task>
     <servers />
   </component>
