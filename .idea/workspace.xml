@@ -5,12 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc568dd8-5ac7-41ee-ac97-7242d92005f3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/zad3/HighSpeed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zad3/LowSpeed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zad3/MediumSpeed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zad3/SpeedBehaviour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zad3/car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zad3/carMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw2/zad1/Archer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw2/zad1/Char.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw2/zad1/Gunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw2/zad1/Knight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw2/zad1/MainRPG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw2/zad1/Shooter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw2/zad1/Weapon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw2/zad2/Advertisement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw2/zad2/Email.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw2/zad2/German.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw2/zad2/MainLottery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw2/zad2/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw2/zad2/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw2/zad2/Polish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw2/zad2/SMS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw2/zad2/Synthesizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw2/zad2/language.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +54,8 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.Main.executor": "Run",
     "Application.MainDuckSim.executor": "Debug",
+    "Application.MainLottery.executor": "Run",
+    "Application.MainRPG.executor": "Run",
     "Application.MainShop.executor": "Run",
     "Application.carMain.executor": "Run",
     "Application.mainPracownik.executor": "Run",
@@ -98,7 +111,8 @@
       <updated>1710539319503</updated>
       <workItem from="1710539320461" duration="99000" />
       <workItem from="1710539422342" duration="11935000" />
-      <workItem from="1712165843005" duration="2635000" />
+      <workItem from="1712165843005" duration="3235000" />
+      <workItem from="1712343617815" duration="4138000" />
     </task>
     <servers />
   </component>
