@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc568dd8-5ac7-41ee-ac97-7242d92005f3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/cw3/zad1/BasicPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw3/zad1/Cheese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw3/zad1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw3/zad1/Pepperoni.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw3/zad1/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw3/zad1/PizzaDecorator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cw2/zad2/MainLottery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cw2/zad2/MainLottery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cw2/zad2/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cw2/zad2/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,30 +38,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.Main.executor": "Run",
-    "Application.MainDuckSim.executor": "Debug",
-    "Application.MainLottery.executor": "Run",
-    "Application.MainRPG.executor": "Run",
-    "Application.MainShop.executor": "Run",
-    "Application.carMain.executor": "Run",
-    "Application.mainPracownik.executor": "Run",
-    "Application.zad4.MainDuckSim.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Adrian/Desktop/Zadania/MiniSymDuck/src/zad2",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainDuckSim.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainLottery.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainRPG.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainShop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.carMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.mainPracownik.executor&quot;: &quot;Run&quot;,
+    &quot;Application.zad4.MainDuckSim.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Adrian/Desktop/Zadania/MiniSymDuck/src/zad2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Adrian\Desktop\Zadania\MiniSymDuck\src\zad2" />
@@ -82,7 +86,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
       </set>
     </attachedChunks>
   </component>
@@ -97,7 +102,10 @@
       <workItem from="1710539320461" duration="99000" />
       <workItem from="1710539422342" duration="11935000" />
       <workItem from="1712165843005" duration="3235000" />
-      <workItem from="1712343617815" duration="4439000" />
+      <workItem from="1712343617815" duration="4485000" />
+      <workItem from="1712348176669" duration="1491000" />
+      <workItem from="1715410476374" duration="5365000" />
+      <workItem from="1715416179363" duration="530000" />
     </task>
     <servers />
   </component>
