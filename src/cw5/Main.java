@@ -5,9 +5,6 @@ public class Main {
         Quest quest1 = new Quest("Jabłko", 5);
         Quest quest2 = new Quest("Banan", 3);
 
-        inventory.registerObserver(quest1);
-        inventory.registerObserver(quest2);
-
         System.out.println("Dodawanie przedmiotów do ekwipunku:");
         inventory.addItem("Jabłko");
         inventory.addItem("Jabłko");
